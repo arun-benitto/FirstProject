@@ -1,0 +1,6 @@
+1)  Direct NGQ without creating UC_ID.
+	Update OPE ID and Config Name
+	Click on Add >> Add Product 
+	Enter the Product number in "Product number" Section and Update Quantity.
+	Do the same process for all the products and click on Refresh Pricing.
+	Download Report and do the same process like the existing one's

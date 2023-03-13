@@ -1,0 +1,10 @@
+1) If Product or Support is not available,
+	- Click on Ad-hoc, update product/ support and quantity.
+                               - Check Price is available If Yes,
+			Below that hover collapse symbol and click on right arrow then update the same product/support and Supporrt Band.
+                                                      Vandana will provide the band details for product and support, based on the master data find band and update it in OCA.
+
+	Exceptions:
+                  	1) Incase product not available terminate the BOT (Price is not available, and it will not show in the suggestions after immediate entering product/support)
+		2) Band is not available terminate the bot and send an message.
+		
